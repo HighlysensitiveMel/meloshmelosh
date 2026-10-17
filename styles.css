@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    background-color: #F4F1E8;
+    color: #111116;
+    font-family: Arial, sans-serif;
+}
+
+.rozet {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #DFFF00;
+    padding: 6px 12px;
+    font-weight: bold;
+    border: 2px solid #111116;
+    z-index: 10;
+}
+
+table {
+    width: 100%;
+    background-color: #DFFF00;
+    padding: 15px;
+    border-bottom: 3px solid #111116;
+}
+
+.container {
+    background-color: #F4F1E8;
+    border: 3px solid #111116;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+}
+
+.header {
+    background-color: #111116;
+    color: #E60073;
+    padding: 25px;
+    border: 3px solid #C8CDD4;
+}
+
+.header h1 {
+    font-size: 40px;
+    margin: 0 0 10px 0;
+}
+
+.header h2 {
+    background-color: #DFFF00;
+    color: #111116;
+    display: inline-block;
+    padding: 3px 8px;
+    margin: 0 0 10px 0;
+}
+
+.header p {
+    color: #F4F1E8;
+}
+
+.PEMBE {
+    background-color: #E60073;
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #111116;
+}
+
+.PEMBE h2 {
+    color: #DFFF00;
+}
+
+.MIMARI {
+    background-color: #F4F1E8;
+    padding: 20px;
+    margin: 20px 0;
+    border: 3px solid #164BFF;
+}
+
+.MIMARI h2 {
+    color: #164BFF;
+}
+
+.MAVI {
+    background-color: #164BFF;
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border: 3px solid #C8CDD4;
+}
+
+.MAVI h2 {
+    color: #DFFF00;
+}
+
+.gorsel-kutusu {
+    background-color: #111116;
+    color: #C8CDD4;
+    border: 2px dashed #DFFF00;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.footer {
+    background-color: #111116;
+    color: #F4F1E8;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 3px solid #E60073;
+}
+
+.footer h2 {
+    color: #DFFF00; /* ENJOY INSIDE OF MY HEAD fosforlu sarı/yeşil oldu */
+    margin: 0 0 10px 0;
+}
